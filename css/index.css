@@ -155,3 +155,9 @@ button[disabled=disabled], button:disabled {
 .invisivel{
 	display: none;
 }
+
+.right{
+	text-align: right;
+	position: left;
+
+}
